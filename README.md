@@ -23,6 +23,8 @@
 | [lies](https://github.com/MaulingMonkey/lies) | LIcense Embedding System
 | [natvis-pdbs](https://github.com/MaulingMonkey/natvis-pdbs) | Embed .natvis files into your .pdbs, for ease of debugging.
 | [bugsalot](https://github.com/MaulingMonkey/bugsalot) | Rust macros for bug wrangling, debugger interop.
+| [mmrbi](https://github.com/MaulingMonkey/mmrbi) | Rust Build Infrastructure
+| [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 
 <!--
 **MaulingMonkey/MaulingMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
