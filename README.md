@@ -1,7 +1,7 @@
 ### 💬 Contact
 
 * MaulingMonkey on [Reddit](https://www.reddit.com/user/MaulingMonkey), [Hacker News](https://news.ycombinator.com/user?id=MaulingMonkey)
-* MaulingMonkey#1444 on Discord (in [GameDev.net](https://discord.gg/nxAZMPU), [Rust PL](https://discord.gg/rust-lang), [Rust PL Community](https://discord.gg/aVESxV8), ...)
+* [MaulingMonkey#1444](https://discord.com/channels/@me/261743851696291841) on Discord (in [GameDev.net](https://discord.gg/nxAZMPU), [Rust PL](https://discord.gg/rust-lang), [Rust PL Community](https://discord.gg/aVESxV8), ...)
 * MaulingMonkey on irc.afternet.org (in [#gamedev](https://chat.mibbit.com/?channel=%23gamedev&server=irc.afternet.org))
 
 ### 🐵 Activity
