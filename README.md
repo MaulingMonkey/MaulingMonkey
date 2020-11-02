@@ -27,6 +27,12 @@
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 | [cargo-container](https://github.com/MaulingMonkey/cargo-container) | Package rlibs in several containing frontends
 | [wslapi](https://github.com/MaulingMonkey/wslapi) | Managing the Windows Subsystem for Linux
+
+| major contributions | desc |
+| ------------------- | ---- |
+| [nonmax](https://github.com/LPGhatguy/nonmax/pulls?q=is%3Apr+author%3AMaulingMonkey) | `NonMax*` equivalents to `NonZero*`
+
+
 <!--
 **MaulingMonkey/MaulingMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
