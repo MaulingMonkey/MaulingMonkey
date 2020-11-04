@@ -6,7 +6,7 @@
 
 ### 🐵 Activity
 
-● [Website](https://maulingmonkey.com/) ● [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AMaulingMonkey+archived%3Afalse+-user%3AMaulingMonkey) ●
+● [Website](https://maulingmonkey.com/) ● [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AMaulingMonkey+archived%3Afalse+-user%3AMaulingMonkey) ● [Notes](https://github.com/MaulingMonkey/notes) ●
 
 ### ⚙️ Rust
 
