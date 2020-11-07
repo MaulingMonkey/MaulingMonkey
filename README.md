@@ -27,6 +27,7 @@
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 | [cargo-container](https://github.com/MaulingMonkey/cargo-container) | Package rlibs in several containing frontends
 | [wslapi](https://github.com/MaulingMonkey/wslapi) | Managing the Windows Subsystem for Linux
+| [appx](https://github.com/MaulingMonkey/appx) | Manage appx packages
 
 | major contributions | desc |
 | ------------------- | ---- |
