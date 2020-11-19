@@ -29,6 +29,7 @@
 | [wslapi](https://github.com/MaulingMonkey/wslapi) | Managing the Windows Subsystem for Linux
 | [appx](https://github.com/MaulingMonkey/appx) | Manage appx packages
 | [winstr](https://github.com/MaulingMonkey/winstr) | Windows `BSTR` wrappers
+| [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
 
 | major contributions | desc |
 | ------------------- | ---- |
