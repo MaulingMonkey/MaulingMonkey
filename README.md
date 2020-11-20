@@ -24,6 +24,7 @@
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 | [vfs-clgit](https://github.com/MaulingMonkey/vfs-clgit) | Virtual FileSystem abstraction around Command Line GIT
+| [vfs-zip](https://github.com/MaulingMonkey/vfs-zip) | Virtual FileSystem abstraction around zip archives
 | [winstr](https://github.com/MaulingMonkey/winstr) | Windows `BSTR` wrappers
 | **Build Tooling** |
 | [appx](https://github.com/MaulingMonkey/appx) | Manage appx packages
@@ -34,9 +35,25 @@
 | [natvis-pdbs](https://github.com/MaulingMonkey/natvis-pdbs) | Embed .natvis files into your .pdbs, for ease of debugging.
 | [wslapi](https://github.com/MaulingMonkey/wslapi) | Managing the Windows Subsystem for Linux
 
-| major contributions | desc |
-| ------------------- | ---- |
+| contributions | desc |
+| ------------- | ---- |
+| **Major** |
 | [nonmax](https://github.com/LPGhatguy/nonmax/pulls?q=is%3Apr+author%3AMaulingMonkey) | `NonMax*` equivalents to `NonZero*`
+| **Medium** |
+| [crev](https://github.com/crev-dev/cargo-crev/pulls?q=is%3Apr+author%3AMaulingMonkey) | Distributed **C**ode **Rev**iews
+| [midir](https://github.com/Boddlnagg/midir/pulls?q=is%3Apr+author%3AMaulingMonkey) | Cross-platform, realtime MIDI processing in Rust.
+| [rust](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3AMaulingMonkey) | `rustc` itself!
+| [wmi](https://github.com/ohadravid/wmi-rs/pulls?q=is%3Apr+author%3AMaulingMonkey) | Windows Management Instrumentation
+| **Minor** |
+| [inventory](https://github.com/dtolnay/inventory/pulls?q=is%3Apr+author%3AMaulingMonkey) | typed distributed plugin registration
+| [lokacore](https://github.com/Lokathor/lokacore/pulls?q=is%3Apr+author%3AMaulingMonkey) | ???
+| [num_cpus](https://github.com/seanmonstar/num_cpus/pulls?q=is%3Apr+author%3AMaulingMonkey) | Count the number of CPUs on the current machine
+| [quicksilver](https://github.com/ryanisaacg/quicksilver/pulls?q=is%3Apr+author%3AMaulingMonkey) | web+desktop 2d gamedev framework
+| [rust-android-gradle](https://github.com/mozilla/rust-android-gradle/pulls?q=is%3Apr+author%3AMaulingMonkey) | Cross compile Rust Cargo projects for Android targets.
+| [rusty-xinput](https://github.com/Lokathor/rusty-xinput/pulls?q=is%3Apr+author%3AMaulingMonkey) | Dynamically loads an xinput dll and lets you safely call the functions.
+| [tempfile](https://github.com/Stebalien/tempfile/pulls?q=is%3Apr+author%3AMaulingMonkey) | Temporary files management
+| [xml](https://github.com/netvl/xml-rs/pulls?q=is%3Apr+author%3AMaulingMonkey) | XML reader/writers
+
 
 <!--
 **MaulingMonkey/MaulingMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
