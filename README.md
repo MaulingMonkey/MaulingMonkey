@@ -21,6 +21,7 @@
 | [cargo-vsc](https://github.com/MaulingMonkey/cargo-vsc) | Autogenerate .vscode folders
 | **General** |
 | [abibool](https://github.com/MaulingMonkey/abibool) | C ABI compatible boolean types
+| [abistr](https://github.com/MaulingMonkey/abistr) | C ABI compatible string types
 | [bugsalot](https://github.com/MaulingMonkey/bugsalot) | Rust macros for bug wrangling, debugger interop.
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
