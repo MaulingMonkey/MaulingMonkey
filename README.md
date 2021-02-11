@@ -16,6 +16,7 @@
 | -------- | ---- |
 | **Subcommands** |
 | [cargo-container](https://github.com/MaulingMonkey/cargo-container) | Package rlibs in several containing frontends
+| [cargo-html](https://github.com/MaulingMonkey/cargo-html) | create self-contained HTML programs
 | [cargo-local-install](https://github.com/MaulingMonkey/cargo-local-install) | Wraps `cargo install` for better local, non-conflicting installation
 | [cargo-vs](https://github.com/MaulingMonkey/cargo-vs) | Autogenerate visual studio solutions / projects
 | [cargo-vsc](https://github.com/MaulingMonkey/cargo-vsc) | Autogenerate .vscode folders
