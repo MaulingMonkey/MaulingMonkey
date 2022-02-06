@@ -25,6 +25,7 @@
 | [abistr](https://github.com/MaulingMonkey/abistr) | C ABI compatible string types
 | [bugsalot](https://github.com/MaulingMonkey/bugsalot) | Rust macros for bug wrangling, debugger interop.
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
+| [thindx](https://github.com/MaulingMonkey/thindx) | Safe, "sound", 1:1 DirectX wrappers
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 | [vfs-clgit](https://github.com/MaulingMonkey/vfs-clgit) | Virtual FileSystem abstraction around Command Line GIT
 | [vfs-zip](https://github.com/MaulingMonkey/vfs-zip) | Virtual FileSystem abstraction around zip archives
