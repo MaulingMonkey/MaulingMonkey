@@ -24,12 +24,14 @@
 | [abibool](https://github.com/MaulingMonkey/abibool) | C ABI compatible boolean types
 | [abistr](https://github.com/MaulingMonkey/abistr) | C ABI compatible string types
 | [bugsalot](https://github.com/MaulingMonkey/bugsalot) | Rust macros for bug wrangling, debugger interop.
+| [firehazard](https://github.com/MaulingMonkey/firehazard) | 🔥 Safe, "sound", 1:1 windows security API wrappers
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
 | [thindx](https://github.com/MaulingMonkey/thindx) | Safe, "sound", 1:1 DirectX wrappers
 | [thindx-xaudio2](https://github.com/MaulingMonkey/thindx-xaudio2) | Safe, "sound", 1:1 XAudio2 wrappers
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 | [vfs-clgit](https://github.com/MaulingMonkey/vfs-clgit) | Virtual FileSystem abstraction around Command Line GIT
 | [vfs-zip](https://github.com/MaulingMonkey/vfs-zip) | Virtual FileSystem abstraction around zip archives
+| [winresult](https://github.com/MaulingMonkey/winresult) | Windows `HRESULT` and error code wrappers
 | [winstr](https://github.com/MaulingMonkey/winstr) | Windows `BSTR` wrappers
 | **Build Tooling** |
 | [appx](https://github.com/MaulingMonkey/appx) | Manage appx packages
