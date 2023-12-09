@@ -26,6 +26,7 @@
 | [bugsalot](https://github.com/MaulingMonkey/bugsalot) | Rust macros for bug wrangling, debugger interop.
 | [firehazard](https://github.com/MaulingMonkey/firehazard) | 🔥 Safe, "sound", 1:1 windows security API wrappers
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
+| [minidl](https://github.com/MaulingMonkey/minidl) | Extremely lean cross platform library for loading symbols
 | [thindx](https://github.com/MaulingMonkey/thindx) | 🎮 Safe, "sound", 1:1 DirectX wrappers
 | [thindx-xaudio2](https://github.com/MaulingMonkey/thindx-xaudio2) | 🔊 Safe, "sound", 1:1 XAudio2 wrappers
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
