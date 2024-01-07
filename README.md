@@ -25,6 +25,7 @@
 | [abistr](https://github.com/MaulingMonkey/abistr) | C ABI compatible string types
 | [bugsalot](https://github.com/MaulingMonkey/bugsalot) | Rust macros for bug wrangling, debugger interop.
 | [firehazard](https://github.com/MaulingMonkey/firehazard) | 🔥 Safe, "sound", 1:1 windows security API wrappers
+| [hwnd](https://github.com/MaulingMonkey/hwnd) | Windows `HWND` wrappers
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
 | [minidl](https://github.com/MaulingMonkey/minidl) | Extremely lean cross platform library for loading symbols
 | [thindx](https://github.com/MaulingMonkey/thindx) | 🎮 Safe, "sound", 1:1 DirectX wrappers
@@ -42,6 +43,10 @@
 | [mmrbi](https://github.com/MaulingMonkey/mmrbi) | Rust Build Infrastructure
 | [natvis-pdbs](https://github.com/MaulingMonkey/natvis-pdbs) | Embed .natvis files into your .pdbs, for ease of debugging.
 | [wslapi](https://github.com/MaulingMonkey/wslapi) | Managing the Windows Subsystem for Linux
+| **Binaries** |
+| [mmuhttpd](https://github.com/MaulingMonkey/mmuhttpd) | 0 deps 100% monkey HTTP server
+| [rust_win32_sample](https://github.com/MaulingMonkey/rust_win32_sample) | Basic samples relying only on `winapi`
+| [rust-opendingux-test](https://github.com/MaulingMonkey/rust-opendingux-test) | OpenGL on RG350M demo
 
 | contributions | desc |
 | ------------- | ---- |
