@@ -29,6 +29,7 @@
 | [mcom](https://github.com/MaulingMonkey/mcom) | 👽 COM smart pointers and interop functions
 | [minidl](https://github.com/MaulingMonkey/minidl) | Extremely lean cross platform library for loading symbols
 | [thindx](https://github.com/MaulingMonkey/thindx) | 🎮 Safe, "sound", 1:1 DirectX wrappers
+| [thindx-xinput](https://github.com/MaulingMonkey/thindx-xinput) | 🎮 Safe, "sound", 1:1 XInput wrappers
 | [thindx-xaudio2](https://github.com/MaulingMonkey/thindx-xaudio2) | 🔊 Safe, "sound", 1:1 XAudio2 wrappers
 | [untokio](https://github.com/MaulingMonkey/untokio) | Pretend tokio doesn't exist
 | [vfs-clgit](https://github.com/MaulingMonkey/vfs-clgit) | Virtual FileSystem abstraction around Command Line GIT
